@@ -11,3 +11,4 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     svm::run()
 }
 ```
+注意svm::run()函数末尾不要加分号
